@@ -2,7 +2,7 @@
 ## MVP
 1. search and colect data from social media applications
 2. divid data with different types
-3. let user define the standard of division
+3. let user define the standard of division， by timeline or by content
 4. data analysis, including sentiment analysis and creating analysis charts
 
 ## User Stories
